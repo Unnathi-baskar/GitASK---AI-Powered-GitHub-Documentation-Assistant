@@ -1,0 +1,11 @@
+streamlit==1.33.0
+chromadb==0.4.24
+langchain==0.1.16
+langchain-community==0.0.32
+pypdf==4.2.0
+python-dotenv==1.0.1
+GitPython==3.1.42
+beautifulsoup4==4.12.3
+tiktoken==0.6.0
+requests==2.31.0
+markdown==3.6
